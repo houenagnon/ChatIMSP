@@ -67,7 +67,7 @@ END_RESPONSE = ["Je suis ravi de vous avoir aidé !", "Super alors. Si vous avez
                 "N'hésitez pas à revenir si vous avez d'autres questions. Au revoir !", "Cool ! Si vous avez besoin de plus d'informations, je suis là.",
                 "Très bien ! Si quelque chose d'autre vous vient à l'esprit, faites-le moi savoir."]
 
-WHO_ARE_YOU_INPUTS = ("qui es-tu", "tu es qui", "c'est qui", "tu es quoi", "comment on t'appelle", "qui es tu")
+WHO_ARE_YOU_INPUTS = ("qui es tu", "tu es qui", "c'est qui", "tu es quoi", "comment on t'appelle", "qui es tu", "qui t'a crée")
 
 WHO_ARE_YOU_RESPONSES = ["Je suis un modèle de langage développé par les étudiants de Master2 DataScience de l'IMSP. Mon but est d'aider et de répondre à vos questions sur l'IMSP.",
                          "Je suis un assistant virtuel créé par les étudiants de Master2 DataScience de l'IMSP. Comment puis-je vous aider aujourd'hui ?",
