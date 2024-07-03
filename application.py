@@ -18,7 +18,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 # Read Data
-df = pd.read_excel('./chatdb1.xlsx')
+df = pd.read_excel('./chatdb2.xlsx')
 df.dropna(inplace=True)
 
 # French stop words
